@@ -33,7 +33,7 @@ public class Manager extends Employee {
 
     /**
      * 经理薪水
-     * 经理薪水和普通员工不同，还要加上奖金部分
+     * 重写取得薪水功能。经理薪水和普通员工不同，还要加上奖金部分
      * @return
      */
     @Override
